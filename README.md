@@ -133,19 +133,6 @@ SendGrid API — email delivery
 
 OpenAI GPT-4o-mini — reasoning and writing
 
-🧾 Folder Structure
-deep-research-ai/
-├── main.py                 # Gradio UI
-├── research_manager.py     # Core research pipeline
-├── planner_agent.py        # Plans search queries
-├── search_agent.py         # Executes and summarizes searches
-├── writer_agent.py         # Writes final report
-├── email_agent.py          # Sends formatted report
-├── agents.py               # Base agent utilities
-├── requirements.txt
-├── .env
-└── README.md
-
 🛠️ Future Enhancements
 
 Add vector-based search with Chroma or FAISS
